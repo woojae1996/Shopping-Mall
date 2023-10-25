@@ -1,0 +1,10 @@
+.btn-outline-success {
+  color:grey;
+  border-color: grey;
+}
+
+.btn-outline-success:hover{
+  background-color:grey;
+  color:white;
+  border-color:grey;
+}
